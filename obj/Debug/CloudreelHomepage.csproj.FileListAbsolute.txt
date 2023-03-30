@@ -1,0 +1,157 @@
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\CloudreelHomepage.dll.config
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\CloudreelHomepage.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\CloudreelHomepage.pdb
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\csc.exe
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\csc.exe.config
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\csc.rsp
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\csi.exe
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\csi.exe.config
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\csi.rsp
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\System.AppContext.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\System.Console.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\System.IO.Compression.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\System.Net.Http.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\System.ValueTuple.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\vbc.exe
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\vbc.exe.config
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\vbc.rsp
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\VBCSCompiler.exe
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\Antlr3.Runtime.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\Newtonsoft.Json.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\System.Web.Helpers.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\System.Web.Mvc.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\System.Web.Optimization.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\System.Web.Razor.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\System.Web.WebPages.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\System.Web.WebPages.Razor.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\WebGrease.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\System.Web.Helpers.xml
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\System.Web.Mvc.xml
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\System.Web.Optimization.xml
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\System.Web.Razor.xml
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\System.Web.WebPages.xml
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\System.Web.WebPages.Razor.xml
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\Newtonsoft.Json.xml
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\Antlr3.Runtime.pdb
+C:\Users\Axelyos\source\repos\CloudreelHomepage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Axelyos\source\repos\CloudreelHomepage\obj\Debug\CloudreelHomepage.csproj.CoreCompileInputs.cache
+C:\Users\Axelyos\source\repos\CloudreelHomepage\obj\Debug\CloudreelHomepage.csproj.CopyComplete
+C:\Users\Axelyos\source\repos\CloudreelHomepage\obj\Debug\CloudreelHomepage.dll
+C:\Users\Axelyos\source\repos\CloudreelHomepage\obj\Debug\CloudreelHomepage.pdb
+C:\New project cloudreel\CloudreelHomepage\bin\CloudreelHomepage.dll.config
+C:\New project cloudreel\CloudreelHomepage\bin\CloudreelHomepage.dll
+C:\New project cloudreel\CloudreelHomepage\bin\CloudreelHomepage.pdb
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\csc.exe
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\csc.exe.config
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\csc.rsp
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\csi.exe
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\csi.exe.config
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\csi.rsp
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\Microsoft.Managed.Core.targets
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\System.AppContext.dll
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\System.Collections.Immutable.dll
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\System.Console.dll
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\System.Globalization.Calendars.dll
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\System.IO.Compression.dll
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\System.IO.FileSystem.dll
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\System.Net.Http.dll
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\System.Net.Sockets.dll
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\System.Reflection.Metadata.dll
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\System.ValueTuple.dll
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\System.Xml.XmlDocument.dll
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\System.Xml.XPath.dll
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\vbc.exe
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\vbc.exe.config
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\vbc.rsp
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\VBCSCompiler.exe
+C:\New project cloudreel\CloudreelHomepage\bin\roslyn\VBCSCompiler.exe.config
+C:\New project cloudreel\CloudreelHomepage\bin\Antlr3.Runtime.dll
+C:\New project cloudreel\CloudreelHomepage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\New project cloudreel\CloudreelHomepage\bin\Microsoft.Web.Infrastructure.dll
+C:\New project cloudreel\CloudreelHomepage\bin\Newtonsoft.Json.dll
+C:\New project cloudreel\CloudreelHomepage\bin\System.Web.Helpers.dll
+C:\New project cloudreel\CloudreelHomepage\bin\System.Web.Mvc.dll
+C:\New project cloudreel\CloudreelHomepage\bin\System.Web.Optimization.dll
+C:\New project cloudreel\CloudreelHomepage\bin\System.Web.Razor.dll
+C:\New project cloudreel\CloudreelHomepage\bin\System.Web.WebPages.Deployment.dll
+C:\New project cloudreel\CloudreelHomepage\bin\System.Web.WebPages.dll
+C:\New project cloudreel\CloudreelHomepage\bin\System.Web.WebPages.Razor.dll
+C:\New project cloudreel\CloudreelHomepage\bin\WebGrease.dll
+C:\New project cloudreel\CloudreelHomepage\bin\System.Web.Helpers.xml
+C:\New project cloudreel\CloudreelHomepage\bin\System.Web.Mvc.xml
+C:\New project cloudreel\CloudreelHomepage\bin\System.Web.Optimization.xml
+C:\New project cloudreel\CloudreelHomepage\bin\System.Web.Razor.xml
+C:\New project cloudreel\CloudreelHomepage\bin\System.Web.WebPages.xml
+C:\New project cloudreel\CloudreelHomepage\bin\System.Web.WebPages.Deployment.xml
+C:\New project cloudreel\CloudreelHomepage\bin\System.Web.WebPages.Razor.xml
+C:\New project cloudreel\CloudreelHomepage\bin\Newtonsoft.Json.xml
+C:\New project cloudreel\CloudreelHomepage\bin\Antlr3.Runtime.pdb
+C:\New project cloudreel\CloudreelHomepage\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\New project cloudreel\CloudreelHomepage\obj\Debug\CloudreelHomepage.csproj.AssemblyReference.cache
+C:\New project cloudreel\CloudreelHomepage\obj\Debug\CloudreelHomepage.csproj.CoreCompileInputs.cache
+C:\New project cloudreel\CloudreelHomepage\obj\Debug\CloudreelHomepage.csproj.CopyComplete
+C:\New project cloudreel\CloudreelHomepage\obj\Debug\CloudreelHomepage.dll
+C:\New project cloudreel\CloudreelHomepage\obj\Debug\CloudreelHomepage.pdb
